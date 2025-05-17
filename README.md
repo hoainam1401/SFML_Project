@@ -33,7 +33,7 @@ To build and run this project, you will need:
 sudo apt-get install libsfml-dev
 
 # Clone the repository
-git clone https://github.com/yourusername/Tetris-CPP.git
+git clone https://github.com/hoainam1401/Tetris-CPP.git
 cd Tetris-CPP
 
 # Build the project
